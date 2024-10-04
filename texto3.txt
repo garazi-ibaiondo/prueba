@@ -1,1 +1,1 @@
-otro archivo de texto
+Esto esta solo en master o main
